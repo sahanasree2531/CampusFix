@@ -23,7 +23,7 @@ The system helps ensure that reported issues are not lost and that their progres
 
 
 
-## 👥 User Roles
+##  User Roles
 
 CampusFix has three main types of users:
 
