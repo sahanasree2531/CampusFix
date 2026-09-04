@@ -118,36 +118,6 @@ CampusFix was developed using the following technologies:
 * Docker Compose
 
 
-
-##  Project Architecture
-
-CampusFix follows a basic client-server architecture:
-
-
-┌──────────────────────┐
-│      Flutter App     │
-│   Student / Admin    │
-└──────────┬───────────┘
-           │
-           │ REST API
-           ↓
-┌──────────────────────┐
-│      FastAPI         │
-│       Backend        │
-└──────────┬───────────┘
-           │
-           │ SQLAlchemy
-           ↓
-┌──────────────────────┐
-│     PostgreSQL       │
-│       Database       │
-└──────────────────────┘
-
-
-The Flutter application communicates with the FastAPI backend through REST APIs, while PostgreSQL is used for persistent data storage.
-
-
-
 ##  Authentication
 
 CampusFix uses authentication to control access to the system.
