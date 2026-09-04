@@ -166,35 +166,6 @@ Issues can move through different stages:
 | Resolved    | Issue has been completed                     |
 
 
-
-##  Project Structure
-
-A simplified structure of the project is:
-
-
-CampusFix/
-│
-├── backend/
-│   ├── main.py
-│   ├── models/
-│   ├── routes/
-│   ├── database/
-│   ├── services/
-│   └── requirements.txt
-│
-├── frontend/
-│   └── Flutter Application
-│       ├── lib/
-│       │   ├── screens/
-│       │   ├── services/
-│       │   └── main.dart
-│       └── pubspec.yaml
-│
-├── docker-compose.yml
-├── README.md
-└── .gitignore
-
-
 ## 🚀 How to Run the Project
 
 ### 1. Clone the Repository
