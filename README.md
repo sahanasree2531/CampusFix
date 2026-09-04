@@ -8,7 +8,7 @@ Instead of depending on manual complaints or verbal communication, CampusFix pro
 
 
 
-## 🎯 Project Objective
+##  Project Objective
 
 The main goal of CampusFix is to create a centralized system for handling common campus issues such as:
 
@@ -27,7 +27,7 @@ The system helps ensure that reported issues are not lost and that their progres
 
 CampusFix has three main types of users:
 
-### 👨‍🎓 Student
+###  Student
 
 Students can:
 
@@ -39,7 +39,7 @@ Students can:
 * Set the priority
 * View the status of reported issues
 
-### 👨‍💼 Admin
+###  Admin
 
 Administrators can:
 
@@ -50,7 +50,7 @@ Administrators can:
 * Track the progress of complaints
 * Manage the overall issue workflow
 
-### 👷 Maintenance Staff
+###  Maintenance Staff
 
 Maintenance staff can:
 
@@ -61,7 +61,7 @@ Maintenance staff can:
 
 
 
-## 🔄 Issue Workflow
+##  Issue Workflow
 
 Each reported issue follows a simple workflow:
 
@@ -81,7 +81,7 @@ This makes it easier for both administrators and students to understand the curr
 
 
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 CampusFix was developed using the following technologies:
 
@@ -119,7 +119,7 @@ CampusFix was developed using the following technologies:
 
 
 
-## 🏗️ Project Architecture
+##  Project Architecture
 
 CampusFix follows a basic client-server architecture:
 
@@ -148,7 +148,7 @@ The Flutter application communicates with the FastAPI backend through REST APIs,
 
 
 
-## 🔐 Authentication
+##  Authentication
 
 CampusFix uses authentication to control access to the system.
 
@@ -164,7 +164,7 @@ This ensures that students, administrators, and maintenance staff have access to
 
 
 
-## 📱 Main Features
+##  Main Features
 
 ### Student Issue Reporting
 
@@ -197,7 +197,7 @@ Issues can move through different stages:
 
 
 
-## 📂 Project Structure
+##  Project Structure
 
 A simplified structure of the project is:
 
@@ -285,7 +285,7 @@ For an Android emulator, the application communicates with the local FastAPI ser
 
 
 
-## 🧪 API Testing
+##  API Testing
 
 The backend APIs can be tested using:
 
@@ -307,7 +307,7 @@ The APIs handle authentication, issue creation, issue retrieval, and administrat
 
 
 
-## 💡 Why CampusFix?
+##  Why CampusFix?
 
 In a typical campus environment, maintenance complaints can be reported through different channels, making them difficult to track.
 
